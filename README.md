@@ -94,6 +94,7 @@ avalanche-fullstack-dapp/
 | Day 5 | Integration & Deploy       | Full stack dApp live                      |
 
 📘 Modul lengkap tersedia di folder [`/docs`](./docs)
+📘 Modul lengkap tersedia di folder [docs](./docs)
 
 ---
 
@@ -272,3 +273,6 @@ MIT License
 ---
 
 Happy building on Avalanche 🚀
+
+
+[docs]: ./docs
